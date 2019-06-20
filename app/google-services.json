@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "382633586693",
+    "firebase_url": "https://apppresupuestos-c9504.firebaseio.com",
+    "project_id": "apppresupuestos-c9504",
+    "storage_bucket": "apppresupuestos-c9504.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382633586693:android:b325eda369dc297f",
+        "android_client_info": {
+          "package_name": "com.example.apppresupuestos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382633586693-nlhdrlht2rbpp0ib31jmg84ofspik4ul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.apppresupuestos",
+            "certificate_hash": "277dc53141506315c341bc2bb46148a358f88947"
+          }
+        },
+        {
+          "client_id": "382633586693-qm3hmrl74c92gdhejj08kkbhcfrr3ich.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4_3fKb5cWqsGqtxnnBd5j0p43guPuQcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382633586693-qm3hmrl74c92gdhejj08kkbhcfrr3ich.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
